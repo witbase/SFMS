@@ -6,3 +6,4 @@ Specifically, our method after re-ranking gets 96.0% mAP score and 97.2% rank-1 
 In addition, we also exhibited outstanding performance on both DukeMTMC-reID and CUHK03. 
 To further validate the robustness of our approach, we explore the application of our method in the occluded person re-identification problem, and obtain 57.5%/66.2% mAP/rank-1 on Occluded-DukeMTMC.  This resualt underperforms the state-of-the-art method FED by 1.9%  rank-1 accuracy but outperforms it by 1.1% mAP.
 
+![Image text](./SFMS/blob/main/exp20231222.jpg)
